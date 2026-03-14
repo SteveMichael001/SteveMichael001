@@ -4,7 +4,7 @@ Sales & AI builder based in San Diego.
 
 I close deals for a living and build AI products on the side — currently shipping [NeverMiss](https://nevermiss-delta.vercel.app), an AI phone answering service for home service contractors, and [ShipRVO](https://shiprvo.com), an automated shipping audit platform.
 
-7+ years in B2B sales across media, crypto, and logistics. $3.5M+ in revenue closed. Now focused on applying that operator instinct to companies building in manufacturing, robotics, and AI.
+7+ years in B2B sales across media, crypto, and logistics. $5.5M+ in revenue closed. Now focused on applying that operator instinct to companies building in manufacturing, robotics, and AI.
 
 ---
 
